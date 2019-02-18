@@ -20,18 +20,18 @@ $def_coy - the default company that is pre-selected on login
 
 $def_coy = 0;
 
-$tb_pref_counter = 0;
+$tb_pref_counter = 1;
 
 $db_connections = array (
   0 => 
   array (
-    'name' => 'wizag',
+    'name' => 'Wizag',
     'host' => 'localhost',
     'port' => '3306',
-    'dbname' => 'root',
+    'dbname' => 'wizerp',
     'collation' => 'utf8_xx',
-    'tbpref' => '',
-    'dbuser' => 'root',
-    'dbpassword' => 'junikah',
+    'tbpref' => '0_',
+    'dbuser' => 'deployment',
+    'dbpassword' => 'W1z@gP@$$w0rd',
   ),
 );

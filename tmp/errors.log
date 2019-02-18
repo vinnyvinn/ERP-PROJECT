@@ -329,3 +329,274 @@
 [09-Jun-2018 12:33:55 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
 [09-Jun-2018 12:36:38 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
 [09-Jun-2018 12:36:49 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 12:55:31 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 12:59:47 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 12:59:58 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 13:03:07 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 13:05:51 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 13:11:31 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 13:12:25 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 13:14:39 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 13:16:11 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[09-Jun-2018 13:16:13 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[10-Jun-2018 12:56:37 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[11-Jun-2018 07:20:07 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[11-Jun-2018 07:23:10 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[11-Jun-2018 07:48:24 Europe/Berlin] 1 language code "en_US", encoding "iso-8859-1" not supported by your system
+[25-Jul-2018 09:16:16 Europe/Berlin] 0::current_user.inc:747:[before upgrade] unlink(./company/0/js_cache/0/JsHttpRequest.js): No such file or directory
+[25-Jul-2018 09:16:16 Europe/Berlin] 0::current_user.inc:747:[before upgrade] unlink(./company/0/js_cache/0/utils.js): No such file or directory
+[25-Jul-2018 09:16:16 Europe/Berlin] 0::current_user.inc:747:[before upgrade] unlink(./company/0/js_cache/0/login.js): No such file or directory
+[25-Jul-2018 09:16:16 Europe/Berlin] 0::current_user.inc:747:[before upgrade] unlink(./company/0/js_cache/0/behaviour.js): No such file or directory
+[10-Jan-2019 19:37:25 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[10-Jan-2019 19:37:58 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[10-Jan-2019 19:37:58 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[10-Jan-2019 19:39:46 Europe/Berlin] 0:admin:sales_order_entry.php:737: Unhandled exception [0]: Call to a member function is_started() on null.
+[11-Jan-2019 05:16:10 Europe/Berlin] 0:Admin:po_ui.inc:227: Invalid argument supplied for foreach()
+[11-Jan-2019 05:16:10 Europe/Berlin] 0:Admin:po_ui.inc:274: Unhandled exception [0]: Call to a member function get_taxes() on null.
+[11-Jan-2019 05:16:35 Europe/Berlin] 0:Admin:po_ui.inc:227: Invalid argument supplied for foreach()
+[11-Jan-2019 05:16:35 Europe/Berlin] 0:Admin:po_ui.inc:274: Unhandled exception [0]: Call to a member function get_taxes() on null.
+[11-Jan-2019 05:17:06 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:17:16 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:17:20 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:18:10 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:18:12 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:18:22 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:18:23 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:18:24 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:18:25 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:19:08 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:19:09 Europe/Berlin] 0:Admin:po_entry_items.php:314: Unhandled exception [0]: Call to a member function add_to_order() on null.
+[11-Jan-2019 05:31:00 Europe/Berlin] 0:Admin:sales_order_entry.php:737: Unhandled exception [0]: Call to a member function is_started() on null.
+[11-Jan-2019 05:31:15 Europe/Berlin] 0:Admin:sales_order_entry.php:737: Unhandled exception [0]: Call to a member function is_started() on null.
+[13-Jan-2019 19:48:47 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[13-Jan-2019 19:48:49 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[13-Jan-2019 19:48:50 Europe/Berlin] 0:admin:simple_crud_class.inc:114: key() expects parameter 1 to be array, string given
+[13-Jan-2019 20:10:37 Europe/Berlin] 0:admin:sales_order_entry.php:261: Creating default object from empty value
+[13-Jan-2019 20:10:37 Europe/Berlin] 0:admin:sales_order_entry.php:737: Unhandled exception [0]: Call to undefined method stdClass::is_started().
+[14-Jan-2019 05:25:09 Europe/Berlin] 0:admin:po_db.inc:30: Creating default object from empty value
+[14-Jan-2019 05:25:09 Europe/Berlin] 0:admin:po_db.inc:40: Unhandled exception [0]: Call to undefined method stdClass::set_supplier().
+[19-Jan-2019 09:51:44 Europe/Berlin] 0:admin:current_user.inc:318: number_format() expects parameter 2 to be integer, float given
+[19-Jan-2019 09:51:50 Europe/Berlin] 0:admin:current_user.inc:318: number_format() expects parameter 2 to be integer, float given
+[22-Jan-2019 14:34:42 Europe/Berlin] 0:gladys:sales_order_entry.php:737: Unhandled exception [0]: Call to a member function is_started() on null.
+[22-Jan-2019 14:34:42 Europe/Berlin] 0:gladys:sales_order_entry.php:737: Unhandled exception [0]: Call to a member function is_started() on null.
+[25-Jan-2019 13:32:15 Europe/Berlin] <b>DATABASE ERROR :</b> Cannot retreive a previous supplier payment<br>error code : 1064<br>error message : You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'AND 0_supp_trans.tran_date<'2017-12-31' AND 0_supp_trans.type=22 AND 0_supp_tran' at line 1<br>sql that failed was : SELECT 0_supp_trans.trans_no,0_supp_trans.type,0_supp_trans.supplier_id,0_supp_trans.tran_date,0_supp_trans.ov_amount,0_bank_trans.ref AS bank_ref,0_bank_trans.amount AS bank_amount,0_bank_accounts.id AS bank_id,0_bank_accounts.bank_name,0_bank_accounts.bank_account_name,0_bank_accounts.bank_curr_code FROM 0_supp_trans,0_bank_trans,0_bank_accounts WHERE 0_supp_trans.supplier_id= AND 0_supp_trans.tran_date<'2017-12-31' AND 0_supp_trans.type=22 AND 0_supp_trans.trans_no=0_bank_trans.trans_no AND 0_supp_trans.type=0_bank_trans.type AND 0_bank_accounts.id=0_bank_trans.bank_act ORDER BY 0_supp_trans.tran_date DESC LIMIT 1 <br><br><br>
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:header.inc:157: include_once(../themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:header.inc:157: include_once(): Failed opening '../themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:header.inc:158: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:footer.inc:19: include_once(../themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening '../themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:28 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:header.inc:157: include_once(../themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:header.inc:157: include_once(): Failed opening '../themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:header.inc:158: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:footer.inc:19: include_once(../themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening '../themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:35 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:38 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:38 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:38 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:38 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:38 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:41 Europe/Berlin] 0:admin:header.inc:157: include_once(../themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:41 Europe/Berlin] 0:admin:header.inc:157: include_once(): Failed opening '../themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:41 Europe/Berlin] 0:admin:header.inc:158: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:41 Europe/Berlin] 0:admin:footer.inc:19: include_once(../themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:41 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening '../themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:42 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:42 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:42 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:42 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:42 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:48 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:48 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:48 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:48 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:48 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:54 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:54 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:01:54 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:01:54 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:01:54 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:02:21 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:02:21 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:02:21 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:02:21 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:02:21 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:04:44 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:04:44 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:04:44 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:04:44 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:04:44 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:04:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:04:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:04:52 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:04:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:04:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:05:00 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:05:00 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:05:00 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:05:00 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:05:00 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:18:26 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:18:26 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 13:18:26 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 13:18:26 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 13:18:26 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 14:32:32 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 14:32:32 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 14:32:32 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 14:32:32 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 14:32:32 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 15:39:12 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 15:39:12 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[07-Feb-2019 15:39:12 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[07-Feb-2019 15:39:12 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[07-Feb-2019 15:39:12 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[08-Feb-2019 07:19:44 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[08-Feb-2019 07:19:44 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[08-Feb-2019 07:19:44 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[08-Feb-2019 07:19:44 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[08-Feb-2019 07:19:44 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[09-Feb-2019 10:14:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[09-Feb-2019 10:14:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[09-Feb-2019 10:14:52 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[09-Feb-2019 10:14:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[09-Feb-2019 10:14:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[09-Feb-2019 10:16:13 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[09-Feb-2019 10:16:13 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[09-Feb-2019 10:16:13 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[09-Feb-2019 10:16:13 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[09-Feb-2019 10:16:13 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[11-Feb-2019 07:59:05 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[11-Feb-2019 07:59:05 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[11-Feb-2019 07:59:05 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[11-Feb-2019 07:59:05 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[11-Feb-2019 07:59:05 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[11-Feb-2019 08:02:44 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[11-Feb-2019 08:02:44 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[11-Feb-2019 08:02:44 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[11-Feb-2019 08:02:44 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[11-Feb-2019 08:02:44 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[11-Feb-2019 08:15:12 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[11-Feb-2019 08:15:12 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[11-Feb-2019 08:15:12 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[11-Feb-2019 08:15:12 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[11-Feb-2019 08:15:12 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[12-Feb-2019 12:16:18 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[12-Feb-2019 12:16:18 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[12-Feb-2019 12:16:18 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[12-Feb-2019 12:16:18 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[12-Feb-2019 12:16:18 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:31:08 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:31:08 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:31:08 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:31:08 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:31:08 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:24 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:24 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:24 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:32:24 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:24 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:51 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:51 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:51 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:32:51 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:51 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:52 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:32:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:53 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:32:54 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:40:51 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:40:51 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:40:51 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:40:51 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:40:51 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:40:52 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:40:53 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:40:53 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:40:53 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:40:53 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:40:53 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:32 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:32 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:32 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:41:32 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:32 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:33 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:34 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:35 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:35 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:35 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:41:35 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:35 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/images/renderer.php): failed to open stream: No such file or directory
+[18-Feb-2019 07:41:36 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/images/renderer.php' for inclusion (include_path='.:/usr/share/php')

@@ -6,7 +6,7 @@
 */
 
 $installed_extensions = array (
-  0 => 
+  1 => 
   array (
     'name' => 'British COA',
     'package' => 'chart_en_GB-general',
@@ -16,33 +16,103 @@ $installed_extensions = array (
     'path' => 'sql',
     'sql' => 'en_GB-general.sql',
   ),
-  1 => 
-  array (
-    'name' => 'English Singapore 4 digits COA',
-    'package' => 'chart_en_SG-general',
-    'version' => '2.4.1-4',
-    'type' => 'chart',
-    'active' => false,
-    'path' => 'sql',
-    'sql' => 'en_SG-new.sql',
-  ),
   2 => 
   array (
-    'name' => 'General 4 digit COA for new company in US',
-    'package' => 'chart_en_US-4digit',
-    'version' => '2.4.1-4',
-    'type' => 'chart',
-    'active' => false,
-    'path' => 'sql',
-    'sql' => 'en_US-4digit.sql',
+    'name' => 'Inventory Items CSV Import',
+    'package' => 'import_items',
+    'version' => '2.4.0-3',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/import_items',
   ),
   3 => 
   array (
-    'name' => 'Theme Anterp',
-    'package' => 'anterp',
+    'name' => 'Import Multiple Journal Entries',
+    'package' => 'import_multijournalentries',
+    'version' => '2.4.0-3',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/import_multijournalentries',
+  ),
+  4 => 
+  array (
+    'name' => 'Import Transactions',
+    'package' => 'import_transactions',
+    'version' => '2.4.0-5',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/import_transactions',
+  ),
+  5 => 
+  array (
+    'name' => 'Cash Flow Statement Report',
+    'package' => 'rep_cash_flow_statement',
     'version' => '2.4.0-1',
-    'type' => 'theme',
-    'active' => false,
-    'path' => 'themes/anterp',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/rep_cash_flow_statement',
+  ),
+  6 => 
+  array (
+    'name' => 'Dated Stock Sheet',
+    'package' => 'rep_dated_stock',
+    'version' => '2.4.0-1',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/rep_dated_stock',
+  ),
+  7 => 
+  array (
+    'name' => 'Inventory History',
+    'package' => 'rep_inventory_history',
+    'version' => '2.4.0-1',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/rep_inventory_history',
+  ),
+  8 => 
+  array (
+    'name' => 'Sales Summary Report',
+    'package' => 'rep_sales_summary',
+    'version' => '2.4.0-1',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/rep_sales_summary',
+  ),
+  9 => 
+  array (
+    'name' => 'Bank Statement w/ Reconcile',
+    'package' => 'rep_statement_reconcile',
+    'version' => '2.4.0-1',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/rep_statement_reconcile',
+  ),
+  10 => 
+  array (
+    'name' => 'Tax inquiry and detailed report on cash basis',
+    'package' => 'rep_tax_cash_basis',
+    'version' => '2.4.0-1',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/rep_tax_cash_basis',
+  ),
+  11 => 
+  array (
+    'name' => 'Report Generator',
+    'package' => 'repgen',
+    'version' => '2.4.0-4',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/repgen',
+  ),
+  12 => 
+  array (
+    'name' => 'Requisitions',
+    'package' => 'requisitions',
+    'version' => '2.4.0-3',
+    'type' => 'extension',
+    'active' => 1,
+    'path' => 'modules/requisitions',
   ),
 );

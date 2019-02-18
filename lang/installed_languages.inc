@@ -18,15 +18,6 @@ $installed_languages = array (
     'name' => 'English',
     'encoding' => 'iso-8859-1',
   ),
-  1 => 
-  array (
-    'name' => 'English (US)',
-    'package' => 'en_US',
-    'code' => 'en_US',
-    'encoding' => 'iso-8859-1',
-    'version' => '2.4.1-3',
-    'path' => 'lang/en_US',
-  ),
 );
 
-$dflt_lang = 'en_US';
+$dflt_lang = 'C';
