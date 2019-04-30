@@ -31,7 +31,7 @@ $db_connections = array (
     'dbname' => 'wiz_erp',
     'collation' => 'utf8_xx',
     'tbpref' => '0_',
-    'dbuser' => 'deployment',
-    'dbpassword' => 'W1z@gP@$$w0rd',
+    'dbuser' => 'root',
+    'dbpassword' => 'root',
   ),
 );

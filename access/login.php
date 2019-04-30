@@ -121,7 +121,7 @@ function defaultCompany()
 	end_table(1);
 	echo "<input type='hidden' id=ui_mode name='ui_mode' value='".!fallback_mode()."' >\n";
 	echo "<center><input type='submit' class='btn btn-info' value='&nbsp;&nbsp;"._(" Login ")."&nbsp;&nbsp;' name='SubmitUser'"
-		." onclick='set_fullmode();'".(isset($blocked_msg) ? " disabled" : '')." ></center>\n";
+		."></center>\n";
 
 	foreach($_SESSION['timeout']['post'] as $p => $val) {
 		// add all request variables to be resend together with login data

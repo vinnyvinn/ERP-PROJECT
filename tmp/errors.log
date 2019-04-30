@@ -956,3 +956,92 @@
 [30-Apr-2019 14:04:54 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
 [30-Apr-2019 14:04:54 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
 [30-Apr-2019 14:04:54 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 14:30:40 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 14:30:40 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 14:30:40 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 14:30:40 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 14:30:40 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 14:36:58 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 14:36:58 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 14:36:58 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 14:36:58 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 14:36:58 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 14:37:00 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 14:37:00 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 14:37:00 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 14:37:00 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 14:37:00 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 14:48:09 Europe/Berlin] 0::login.php:66:[before upgrade] Unhandled exception [0]: Call to undefined function send_scripts().
+[30-Apr-2019 14:48:37 Europe/Berlin] 0::login.php:96:[before upgrade] Unhandled exception [0]: Call to undefined function text_row().
+[30-Apr-2019 14:57:48 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 14:57:48 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 14:57:48 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 14:57:48 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 14:57:48 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:00:58 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:00:58 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:00:58 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:00:58 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:00:58 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:01:05 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:01:05 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:01:05 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:01:05 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:01:05 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:02:23 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:02:23 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:02:23 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:02:23 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:02:23 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:05:34 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:05:34 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:05:34 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:05:34 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:05:34 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:09:15 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:09:15 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:09:15 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:09:15 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2019 15:09:37 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:09:37 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:09:37 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:09:37 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2019 15:10:13 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:10:13 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:10:13 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:10:13 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2019 15:10:37 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:10:37 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:10:37 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:10:37 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2019 15:10:39 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:10:39 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:10:39 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:10:39 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2019 15:10:39 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:10:39 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:10:39 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:10:39 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2019 15:10:47 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:10:47 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:10:47 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:10:47 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2019 15:10:59 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:10:59 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:10:59 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:10:59 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:10:59 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:11:36 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:11:36 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:11:36 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:11:36 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:11:36 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:12:23 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:12:23 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:12:23 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:12:23 Europe/Berlin] PHP Fatal error:  Exception thrown without a stack frame in Unknown on line 0
+[30-Apr-2019 15:13:41 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:13:41 Europe/Berlin] 0:admin:frontaccounting.php:57: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
+[30-Apr-2019 15:13:41 Europe/Berlin] 0:admin:frontaccounting.php:60: Unhandled exception [0]: Class 'renderer' not found.
+[30-Apr-2019 15:13:41 Europe/Berlin] 0:admin:footer.inc:19: include_once(./themes/customization/renderer.php): failed to open stream: No such file or directory
+[30-Apr-2019 15:13:41 Europe/Berlin] 0:admin:footer.inc:19: include_once(): Failed opening './themes/customization/renderer.php' for inclusion (include_path='.:/usr/share/php')
