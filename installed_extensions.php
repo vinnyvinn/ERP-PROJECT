@@ -6,7 +6,7 @@
 	FA extension system documentation.
 */
 
-$next_extension_id = 13; // unique id for next installed extension
+$next_extension_id = 15; // unique id for next installed extension
 
 $installed_extensions = array (
   1 => 
@@ -50,7 +50,7 @@ $installed_extensions = array (
   array (
     'name' => 'Cash Flow Statement Report',
     'package' => 'rep_cash_flow_statement',
-    'version' => '2.4.0-1',
+    'version' => '2.4.0-2',
     'type' => 'extension',
     'active' => false,
     'path' => 'modules/rep_cash_flow_statement',
@@ -117,5 +117,24 @@ $installed_extensions = array (
     'type' => 'extension',
     'active' => false,
     'path' => 'modules/requisitions',
+  ),
+  13 => 
+  array (
+    'name' => 'FrontHrm',
+    'package' => 'fronthrm',
+    'version' => '2.4.0-1',
+    'type' => 'extension',
+    'active' => false,
+    'path' => 'modules/FrontHrm',
+  ),
+  14 => 
+  array (
+    'package' => 'FrontHrm',
+    'name' => 'FrontHrm',
+    'version' => '-',
+    'available' => '',
+    'type' => 'extension',
+    'path' => 'modules/FrontHrm',
+    'active' => false,
   ),
 );
